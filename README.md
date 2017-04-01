@@ -1,7 +1,5 @@
 # hello-world
-Just another repository
 
-Hi Humans!
+Este es un repositorio Hello World.
 
-Hubot here, I like Node.js and Coffescript.
-I've had tacos on the moon and find them far superior to Earth tacos.
+Autora: Noelia.
